@@ -1,1 +1,1 @@
-Check out here 👉👉https://github.com/Sundarsinghbisht/Currency-Convertor.git
+Check out here 👉👉https://sundarsinghbisht.github.io/Currency-Convertor/
